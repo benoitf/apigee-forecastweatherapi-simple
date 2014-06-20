@@ -1,8 +1,0 @@
-{
-    "id": "default",
-    "webPort": 9000,
-    "shellPort": 4200,
-    "description": "NodeJS environment.",
-    "runDockerfileName": "run.dc5y",
-    "bindAppDir": "/home/user/application"
-}
